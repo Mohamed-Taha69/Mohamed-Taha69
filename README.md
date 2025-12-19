@@ -62,9 +62,9 @@ I have hands-on experience in **Machine Learning**, especially in **Computer Vis
 ---
 
 ## 📫 Let's Connect
-- GitHub: [Your GitHub Link]
-- LinkedIn: [Your LinkedIn Link]
-- Email: [Your Email]
+- GitHub: []
+- LinkedIn:[ ]
+- Email: []
 
 ---
 
