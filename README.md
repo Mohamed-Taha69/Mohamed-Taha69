@@ -1,71 +1,80 @@
 # 👋 Hi, I'm Mohamed Taha
 
-## 🚀 Full-Stack Developer | AI & Machine Learning Enthusiast
+## 🚀 Full-Stack Developer | AI & DevOps Enthusiast
 
-I'm a **Full-Stack Developer** with strong experience in building modern web applications and a growing background in **DevOps** and **Machine Learning**.  
-I enjoy working on real-world projects that combine **software engineering** with **AI-powered solutions**.
-
----
-
-## 💻 Tech Stack
-
-### Frontend
-- ⚛️ React.js
-- ⚡ Next.js
-- 🎨 Tailwind CSS
-- HTML5, CSS3, JavaScript (ES6+)
-
-### Backend
-- 🟢 Node.js
-- 🧠 NestJS
-- 🍃 MongoDB
-- REST APIs & Backend Architecture
-
-### DevOps (Learning & Practicing)
-- 🐳 Docker
-- ☁️ Cloud Deployment (AWS / Render / Vercel)
-- 🔁 CI/CD Basics
-- Linux & Server Concepts
+I'm a **Full-Stack Developer** specialized in building modern, scalable web applications using **React, Next.js, Node.js, and NestJS**.  
+I also have hands-on experience in **Machine Learning**, especially **Computer Vision**, and I'm currently expanding my skills in **DevOps & Cloud Infrastructure**.
 
 ---
 
-## 🤖 Machine Learning & AI Experience
+## 🤹‍♂️ Skills
 
-I have hands-on experience in **Machine Learning**, especially in **Computer Vision**.
+<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
 
-### 🧪 Key Projects
-- 🔬 **Acne Severity Classification Model**
-  - Built a deep learning model to classify acne severity levels.
-  - Focused on data preprocessing, augmentation, and model optimization.
+<!-- Frontend -->
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="80" height="80" alt="React" />
+<img src="https://techstack-generator.vercel.app/nextjs-icon.svg" width="80" height="80" alt="Next.js" />
+<img src="https://techstack-generator.vercel.app/tailwindcss-icon.svg" width="80" height="80" alt="Tailwind CSS" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" height="80" alt="JavaScript" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="80" height="80" alt="TypeScript" />
 
-- 🩺 **Skin Disease Classification System**
-  - Developed an ML model to classify multiple skin diseases.
-  - Achieved high accuracy through proper dataset handling and model tuning.
-  - Integrated the model with a web application using FastAPI / Node.js.
+<!-- Backend -->
+<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="80" height="80" alt="Node.js" />
+<img src="https://techstack-generator.vercel.app/nestjs-icon.svg" width="80" height="80" alt="NestJS" />
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="80" height="80" alt="REST API" />
+<img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="80" height="80" alt="MongoDB" />
+
+<!-- DevOps -->
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80" height="80" alt="Docker" />
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="80" height="80" alt="AWS" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="80" height="80" alt="GitHub" />
+
+<!-- Machine Learning -->
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" height="80" alt="Python" />
+<img src="https://techstack-generator.vercel.app/pytorch-icon.svg" width="80" height="80" alt="PyTorch" />
+<img src="https://techstack-generator.vercel.app/opencv-icon.svg" width="80" height="80" alt="OpenCV" />
+
+</div>
 
 ---
 
-## 🧠 What I Enjoy Working On
-- Building scalable full-stack applications
-- Integrating AI models into real products
-- Learning DevOps & cloud infrastructure
-- Solving real-world problems using technology
+## 🤖 Machine Learning Experience
+
+I have practical experience in building and deploying **Machine Learning models**, with a strong focus on **Computer Vision**.
+
+### 🔬 Projects
+- **Acne Severity Classification**
+  - Developed a deep learning model to classify acne severity levels.
+  - Achieved high accuracy using proper preprocessing and augmentation techniques.
+
+- **Skin Disease Classification System**
+  - Built a model to classify multiple skin diseases.
+  - Integrated the ML model into a full-stack web application.
 
 ---
 
-## 📈 Goals
-- Become a strong **Full-Stack & DevOps Engineer**
-- Build production-ready **AI-powered applications**
+## 🛠 What I Do
+- Build full-stack web applications
+- Design and integrate RESTful APIs
+- Apply machine learning models to real-world problems
+- Learn and apply DevOps best practices
+
+---
+
+## 🎯 Goals
+- Become a professional **Full-Stack & DevOps Engineer**
+- Build scalable **AI-powered products**
+- Work on production-level systems
 - Contribute to open-source projects
-- Continuously improve system design & architecture skills
 
 ---
 
-## 📫 Let's Connect
-- GitHub: []
-- LinkedIn:[ ]
-- Email: []
+## 📫 Contact Me
+- GitHub: 
+- LinkedIn: 
+- Email: 
 
 ---
 
 ⭐ If you like my work, feel free to star my repositories!
+
