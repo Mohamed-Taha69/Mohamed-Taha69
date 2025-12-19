@@ -9,28 +9,31 @@ I also have hands-on experience in **Machine Learning**, especially **Computer V
 
 ## 🤹‍♂️ Skills
 
-<div style="display:flex;flex-wrap:wrap;gap:14px;align-items:center;">
+<div style="display:flex;flex-wrap:wrap;gap:12px;align-items:center;">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.png" width="70" alt="React"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.png" width="70" alt="Next.js"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.png" width="70" alt="Tailwind CSS"/>
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="80" height="80" alt="React"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.png" width="70" alt="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.png" width="70" alt="TypeScript"/>
+<!-- FIXED -->
+<img src="https://skillicons.dev/icons?i=tailwind" width="80" height="80" alt="Tailwind"/>
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" height="80" alt="JavaScript"/>
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="80" height="80" alt="TypeScript"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.png" width="70" alt="Node.js"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.png" width="70" alt="NestJS"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.png" width="70" alt="MongoDB"/>
+<!-- FIXED -->
+<img src="https://skillicons.dev/icons?i=nodejs" width="80" height="80" alt="Node.js"/>
+<img src="https://skillicons.dev/icons?i=nestjs" width="80" height="80" alt="NestJS"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.png" width="70" alt="Docker"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.png" width="70" alt="AWS"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.png" width="70" alt="GitHub"/>
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="80" height="80" alt="REST API"/>
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80" height="80" alt="Docker"/>
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="80" height="80" alt="AWS"/>
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="80" height="80" alt="GitHub"/>
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" height="80" alt="Python"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.png" width="70" alt="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.png" width="70" alt="PyTorch"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.png" width="70" alt="OpenCV"/>
+<!-- FIXED -->
+<img src="https://skillicons.dev/icons?i=pytorch" width="80" height="80" alt="PyTorch"/>
+<img src="https://skillicons.dev/icons?i=opencv" width="80" height="80" alt="OpenCV"/>
 
 </div>
+
 
 
 
