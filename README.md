@@ -9,46 +9,24 @@ I also have hands-on experience in **Machine Learning**, especially **Computer V
 
 ## 🤹‍♂️ Skills
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
-
-<!-- Frontend -->
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="80" height="80" alt="React" />
-
-<!-- Next.js (FIXED) -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-     width="80" height="80" alt="Next.js" />
-
-<!-- Tailwind (FIXED) -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
-     width="80" height="80" alt="Tailwind CSS" />
-
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" height="80" alt="JavaScript" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="80" height="80" alt="TypeScript" />
-
-<!-- Backend -->
-<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="80" height="80" alt="Node.js" />
-
-<!-- NestJS (FIXED) -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"
-     width="80" height="80" alt="NestJS" />
-
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="80" height="80" alt="REST API" />
-
-<!-- MongoDB (FIXED) -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg"
-     width="80" height="80" alt="MongoDB" />
-
-<!-- DevOps -->
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80" height="80" alt="Docker" />
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="80" height="80" alt="AWS" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="80" height="80" alt="GitHub" />
-
-<!-- Machine Learning -->
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" height="80" alt="Python" />
-<img src="https://techstack-generator.vercel.app/pytorch-icon.svg" width="80" height="80" alt="PyTorch" />
-<img src="https://techstack-generator.vercel.app/opencv-icon.svg" width="80" height="80" alt="OpenCV" />
-
+<div style="display:flex;align-items:center;flex-wrap:wrap;gap:12px;">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="70" height="70" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="70" height="70" alt="Next.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="70" height="70" alt="Tailwind"/>
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="70" height="70" alt="JavaScript"/>
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="70" height="70" alt="TypeScript"/>
+<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="70" height="70" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="70" height="70" alt="NestJS"/>
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="70" height="70" alt="REST API"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" width="70" height="70" alt="MongoDB"/>
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="70" height="70" alt="Docker"/>
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="70" height="70" alt="AWS"/>
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="70" height="70" alt="GitHub"/>
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="70" height="70" alt="Python"/>
+<img src="https://techstack-generator.vercel.app/pytorch-icon.svg" width="70" height="70" alt="PyTorch"/>
+<img src="https://techstack-generator.vercel.app/opencv-icon.svg" width="70" height="70" alt="OpenCV"/>
 </div>
+
 
 
 ---
