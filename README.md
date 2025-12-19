@@ -13,16 +13,30 @@ I also have hands-on experience in **Machine Learning**, especially **Computer V
 
 <!-- Frontend -->
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="80" height="80" alt="React" />
-<img src="https://techstack-generator.vercel.app/nextjs-icon.svg" width="80" height="80" alt="Next.js" />
-<img src="https://techstack-generator.vercel.app/tailwindcss-icon.svg" width="80" height="80" alt="Tailwind CSS" />
+
+<!-- Next.js (FIXED) -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+     width="80" height="80" alt="Next.js" />
+
+<!-- Tailwind (FIXED) -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+     width="80" height="80" alt="Tailwind CSS" />
+
 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" height="80" alt="JavaScript" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="80" height="80" alt="TypeScript" />
 
 <!-- Backend -->
 <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="80" height="80" alt="Node.js" />
-<img src="https://techstack-generator.vercel.app/nestjs-icon.svg" width="80" height="80" alt="NestJS" />
+
+<!-- NestJS (FIXED) -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"
+     width="80" height="80" alt="NestJS" />
+
 <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="80" height="80" alt="REST API" />
-<img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="80" height="80" alt="MongoDB" />
+
+<!-- MongoDB (FIXED) -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg"
+     width="80" height="80" alt="MongoDB" />
 
 <!-- DevOps -->
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80" height="80" alt="Docker" />
@@ -35,6 +49,7 @@ I also have hands-on experience in **Machine Learning**, especially **Computer V
 <img src="https://techstack-generator.vercel.app/opencv-icon.svg" width="80" height="80" alt="OpenCV" />
 
 </div>
+
 
 ---
 
