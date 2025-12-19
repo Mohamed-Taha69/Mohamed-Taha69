@@ -9,23 +9,29 @@ I also have hands-on experience in **Machine Learning**, especially **Computer V
 
 ## 🤹‍♂️ Skills
 
-<div style="display:flex;align-items:center;flex-wrap:wrap;gap:12px;">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="70" height="70" alt="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="70" height="70" alt="Next.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="70" height="70" alt="Tailwind"/>
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="70" height="70" alt="JavaScript"/>
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="70" height="70" alt="TypeScript"/>
-<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="70" height="70" alt="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="70" height="70" alt="NestJS"/>
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="70" height="70" alt="REST API"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" width="70" height="70" alt="MongoDB"/>
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="70" height="70" alt="Docker"/>
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="70" height="70" alt="AWS"/>
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="70" height="70" alt="GitHub"/>
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="70" height="70" alt="Python"/>
-<img src="https://techstack-generator.vercel.app/pytorch-icon.svg" width="70" height="70" alt="PyTorch"/>
-<img src="https://techstack-generator.vercel.app/opencv-icon.svg" width="70" height="70" alt="OpenCV"/>
+<div style="display:flex;flex-wrap:wrap;gap:14px;align-items:center;">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.png" width="70" alt="React"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.png" width="70" alt="Next.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.png" width="70" alt="Tailwind CSS"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.png" width="70" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.png" width="70" alt="TypeScript"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.png" width="70" alt="Node.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.png" width="70" alt="NestJS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.png" width="70" alt="MongoDB"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.png" width="70" alt="Docker"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.png" width="70" alt="AWS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.png" width="70" alt="GitHub"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.png" width="70" alt="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.png" width="70" alt="PyTorch"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.png" width="70" alt="OpenCV"/>
+
 </div>
+
 
 
 
