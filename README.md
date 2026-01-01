@@ -71,7 +71,7 @@ I have practical experience in building and deploying **Machine Learning models*
 
 ---
 
-## 📫 Contact Me
+# 📫 Contact Me
 - GitHub: 
 - LinkedIn: 
 - Email: 
