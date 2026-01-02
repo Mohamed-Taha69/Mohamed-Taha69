@@ -61,7 +61,7 @@ I have practical experience in building and deploying **Machine Learning models*
 - Apply machine learning models to real-world problems
 - Learn and apply DevOps best practices
 
----
+----
 
 ## 🎯 Goals
 - Become a professional **Full-Stack & DevOps Engineer**
