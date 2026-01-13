@@ -5,7 +5,7 @@
 I'm a **Full-Stack Developer** specialized in building modern, scalable web applications using **React, Next.js, Node.js, and NestJS**.  
 I also have hands-on experience in **Machine Learning**, especially **Computer Vision**, and I'm currently expanding my skills in **DevOps & Cloud Infrastructure**.
 
---
+-
 
 ## 🤹‍♂️ Skills
 
