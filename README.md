@@ -73,8 +73,7 @@ I have practical experience in building and deploying **Machine Learning models*
 
 # 📫 Contact Me
 - GitHub: 
-- LinkedIn:https://www.linkedin.com/in/mohamed-taha-9759611a9/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- Email: 
+- LinkedIn:
 
 ---
 
